@@ -1,0 +1,6 @@
+{
+    "env": "node",
+    "outDir": "./out",
+	"lib": "!!FABEL!!/lib",
+    "symbols": []
+}
