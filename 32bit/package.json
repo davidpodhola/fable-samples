@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fable-core": "^0.0.1"
+  },
+  "devDependencies": {
+    "fable-compiler": "^0.0.8"
+  }  
+}
